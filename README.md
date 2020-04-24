@@ -11,4 +11,4 @@ IT Technologies TOPICS OF CHOICE
 kyle- Machine Learning
 sohan- Cybersecurity
 jayson-Augmented Reality
-c(hris-if alive)kelly- blockchain and cryptocurrencies 
+(chris-if alive)kelly- blockchain and cryptocurrencies 
