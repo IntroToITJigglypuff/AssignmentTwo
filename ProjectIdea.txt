@@ -1,0 +1,65 @@
+OVERVIEW 
+
+This project is a collaboration of all members of Jigglypuff and the Project Ideas made in Assignment One.  
+
+Our project combines everyday objects with augmented reality for personal use; a full body mirror that can project hologram image onto the user with the chosen outfit and can change based on user control. The user controls these settings through their own mobile device and able to save and share their outfits with friends or publicly through their account. The app is linked with each mirror via Bluetooth and compatible with only mobile devices, open for free download on Apple iOS and Android devices.  
+
+ 
+
+MOTIVATION  
+
+The project idea is within the fashion industry as it is a large one that everyone must encounter as clothing is an essential item in everyday life. From the range of those who stick with basics to those who follow new trends and seasons, it is a great way to see what outfits would match for any occasion and to try on clothing without the hassle of taking on and off clothing.  
+
+When taking into consideration the statistics of the fashion industry and its projected growth it can be assumed global consumer interest to purchase this product. In 2015 the fashion industry was worth 1.3 trillion USD and projected to grow to 1.5 trillion USD by 2020 with an average growth rate of 4-5% alone in the Asia Pacific region.  
+
+With our project idea we can help companies grow their business by giving them the opportunity to join as a sponsor and let their products be available on the app for users to “try on” the clothes with the augmented reality function and upload all their clothing products and future products as a showcase. In turn this would also be another form of advertisement and broader customer outreach through our project.  
+
+ 
+
+DESCTIPTION, TOOLS AND TECHNOLOGY 
+
+MIRROR:  
+
+The mirror itself would be a full body size that is easily installed within one's home or bedroom as it is for personal use. Generally, there are full body mirror standard dimensions; those ranges are 36, 40 and 48 inches as it considers people of all heights as someone shorter doesn’t need one compared to a taller person. The mirror material itself would be a two way mirror as it will allow the user to see their reflection and the other side for the hardware to detect and project the holographic image onto the user and track their movements to match the user so if they were to turn the image will rotate in sync.  
+
+The mirror for function would need a large and lightweight battery that is rechargeable, for our project we have decided for a 10,000 mAH battery pack. This is based off the VR battery pack for the Oculus that has a runtime of 8 hours gaming and 10 ours video streaming. This battery need takes into account the hologram hardware energy needs mostly as the Bluetooth function to connect to the user’s device is insignificant compared to the primary function. To recharge the mirror there is a USB-C port available, any USB-C cable is appropriate however the recharge power source will determine the speed which the battery recharges.  
+
+MOBILE DEVICE: 
+
+For each of our users they will require their own mobile device to connect to the mirror and access its controls and function. It is exclusively for mobile devices only and many people at this point would have a mobile device. Our project requires the latest in system requirements for Apple products that would be 13.4.1 iOS version and for Android devices, version 10.0 KitKat.  
+
+The app itself can be found for free download on the respective downloader found on the device. From there we have a large database set up for all our users to join and register, which is mandatory to be able to access the functions available. The full extent of user control will range from creating their own repositories to store and save their outfit creations privately or share those within a public hub that can be exclusively friends or worldwide. The mobile device would have an assumed Bluetooth control to be able to connect with the mirror to utilize. As it only requires Bluetooth connection users can connect to any mirror, given they are within standard connection range of 10m.  
+
+HOLOGRAM:  
+
+The holographic component will be implementing the HYPERVSN hardware. The HYPERVSN technology is chosen due to its quality and it is currently is one of the top holographic brands available commercially. The hardware controls of this device are also fully compatible with the needs of our project idea as it addresses the main concerns to the project, it has user friendly content creation, management and remote-control access. But changes to the current HYPVSN holographic hardware make it quite bulky to what a standard mirror dimensions, so there will be an upgrade for a slimmer version of the device. This would not only change the weight of the mirror and give it a sleek and thinner mirror in width and closer to standard mirror size. However, the current price of HYPERVSN is on the high cost range and would take time to decrease commercial costs enough that it would be affordable to majority of middle-class consumers.  
+
+ 
+
+SKILL REQUIRED: 
+
+Skills required for this project in summary are:  
+
+Database specialist 
+
+Software engineering 
+
+App Developer  
+
+IT Support  
+
+These are the four major skill sets needed for this project as we will need a large and capable storage for both the clothing options and future upload and updates of clothing lines and from user accounts and their personal repositories of saved outfits and shared outfits. This in collaboration with software engineers to create the program necessary to implement and connect all back-end requirements of the project. An app development team to create the application for user control in collaboration with IT support for any faq and user questions once implemented that will be able to update apps with updated mobile OS.  
+
+ 
+
+OUTCOME 
+
+If this project is successful not only will it save the user time on going out to the shops to try on clothing before purchasing it can also reduce low review scores on clothing that comes from the inability to check measurements or having to guess clothing measurements when shopping and ordering online. Not only would this save the users need to return their order for exchanges it would also save the company money on having to implement man hours to customer service returns section. In addition to the companies that support this platform will increase consumer outreach and increase sales as it their products become more accessible to consumers to view. In turn with more consumer reach economic increase of the fashion sector will occur and help stimulate economic movement globally.  
+
+ 
+
+ 
+
+ 
+
+  
