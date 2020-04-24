@@ -3,7 +3,7 @@ Intro to IT assignment two
 
 Team Profile & Tools -kelly &sohan
 Industry Data - jayson & sohan
-IT Work - (chris-if alive) kelly
+IT Work - kyle
 IT Technologies - kyle & sohan & jayson & (chris+kelly)
 Project Idea- everyone
 
