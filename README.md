@@ -1,9 +1,9 @@
 # AssignmentTwo
 Intro to IT assignment two
 
-Team Profile & Tools -kelly &sohan
+Team Profile & Tools -kelly 
 Industry Data - jayson & sohan
-IT Work - kyle
+IT Work - kyle &sohan
 IT Technologies - kyle & sohan & jayson & (chris+kelly)
 Project Idea- everyone
 
